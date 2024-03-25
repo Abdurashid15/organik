@@ -1,0 +1,13 @@
+.hero-section {
+  background-image: url(./assets/home-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero {
+  padding: 100px;
+}
+
+input {
+  color: black;
+}
